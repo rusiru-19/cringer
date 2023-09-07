@@ -19,8 +19,8 @@ password = "your_password_here"
 file_extensions = [".txt", ".jpg", ".docx", ".pdf", ".png", ".exe", ]
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
-TOKEN = "MTA5ODIyODk3NzA3Nzg2NjU0Ng.GdnU1J.9pd_c-IBAK4Ss8QcQKfiWUT53w3UY9bb7ZJGOA" #discord bot token
-CHANNEL_ID = 1098232540860530768
+TOKEN = "" #discord bot token
+CHANNEL_ID = 
 
 
 
